@@ -1,5 +1,5 @@
 # C1
-PROGRAm add two numbers
+//PROGRAM add two numbers
 #include<stdio.h>
 int main(){
     int numbers[5]={11,22.33,44,55};
